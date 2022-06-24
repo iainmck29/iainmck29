@@ -1,14 +1,17 @@
-### Welcome 🤙
+### Hey, I'm Iain McKenzie. A full-stack developer based in London, UK 🏴󠁧󠁢󠁳󠁣󠁴󠁿🤙
 
-My name's Iain McKenzie. I'm a full-stack developer from Scotland living in London, UK. 🏴󠁧󠁢󠁳󠁣󠁴󠁿🇬🇧
+## About me
+- MEng Mechanical Engineering (University of Strathclyde) 🥇🎓
+- Self-taught full-stack developer 💻
+- Sports fanatic 🏉⛳🎾
 
-I graduated with my Master's in Mechanical Engineering (distinction/1:1) from the University of Strathclyde in 2016. I worked for about 2.5 years as a mechanical design engineer before deciding that career path was not for me. 🤷‍♂️
+## Project highlights
+- [Scuba Diving E-commerce store](https://mknz-dive-store.netlify.app/) 🤿
+- [Minimalist Reddit App](https://minimalist-reddit-by-iain.surge.sh/) #️⃣
+- [Jammming playlist maker](https://jammmingwithiain.surge.sh/) 🎵
 
-So I quit my job in the thick of the pandemic with the decision to teach myself full-stack engineering loving the problems-solving parts of it combined with the vast amount of opportunity opening up in the digital space. It's not been easy and stressful at times but anything worth it never is. 
-
-With a range of projects under my belt and exposure to plenty of different technologies/languages, I'm looking for my first professional challenge in the field. 👊🎱
-
-Take a look around, see what I've been doing... 😄
+## Currently working on
+- My personal portfolio website 📽️
 
 <!--
 **iainmck29/iainmck29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
